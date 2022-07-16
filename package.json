@@ -1,0 +1,14 @@
+{
+  "name": "moment-holidays",
+  "version": "1.0.0",
+  "description": "Moment.js with support for business days & bank holidays",
+  "main": "lib/moment-holidays.js",
+  "repository": "https://github.com/ThingyThingInc/moment-holidays.git",
+  "author": "James Sartelle <james.sartelle@extra.app>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@18f/us-federal-holidays": "^2.1.1",
+    "moment-business-days": "^1.2.0"
+  }
+}
