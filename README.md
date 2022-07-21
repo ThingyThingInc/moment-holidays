@@ -17,4 +17,4 @@ This plugin wraps [moment-business-days](https://github.com/kalmecak/moment-busi
 
 ## Caveats
 
-The plugin will only load holidays within one year after startup.
+The plugin will only load holidays within two years after startup.
